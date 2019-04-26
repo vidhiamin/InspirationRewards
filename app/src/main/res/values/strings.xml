@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rewards</string>
+    <string name="base_url">http://inspirationrewardsapi-env.6mmagpm2pv.us-east-2.elasticbeanstalk.com</string>
+    <string name="aNumber">A20413890</string>
+    <string name="user_name_txt">USER_NAME</string>
+    <string name="password_txt">PASSWORD</string>
+    <string name="checkbox_txt">CHECKED</string>
+</resources>
